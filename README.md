@@ -20,9 +20,9 @@ Applying ensemble methods significantly improves accuracy:
 2. **Testing**  
    - Use the provided test codes depending on the evaluation mode.  
    - Example:  
-     ```bash
-     python test_specific_folder_NoSigma.py --planet_id <PLANET_ID>
-     ```
+     
+     test_specific_folder_NoSigma.py 
+    
    - Works especially well for **untrained/novalidated IDs** listed in `untrained_planet_ids.csv`.
 
 3. **Untrained Planets**  
