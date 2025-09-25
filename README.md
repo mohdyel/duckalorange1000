@@ -36,5 +36,5 @@ Applying ensemble methods significantly improves accuracy:
 - Accuracy improvements are consistent across tested untrained IDs.  
 
 ## Important
-I’m not sure about **sigma** – I think it might be the reason why I’m getting `0` on the Kaggle public score.
+I’m not sure about **sigma** – I think it might be the reason why the solution is suspected to cause descrepancies on the Kaggle public score.
 But i am working on solving the problem with one of the top 2% reaserchers around the world
