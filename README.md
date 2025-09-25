@@ -1,5 +1,5 @@
 # Ariel Data Challenge – Ensemble Inference
-
+#ArielSpectra – Planetary Spectrum Prediction Pipeline
 ## Overview
 This repository contains:
 - **`models_bundle.pkl`** → Trained ensemble model bundle.  
